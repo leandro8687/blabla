@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 LA PUTA MADRE 124444
+=======
+LA PUTA MADRE 125555555
+nueva rama
+>>>>>>> d7c162c0e287120d33cfc4490115dab6f8265104
